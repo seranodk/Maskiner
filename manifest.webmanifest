@@ -1,0 +1,26 @@
+{
+  "name": "Maskiner",
+  "short_name": "Maskiner",
+  "description": "Landbrugsspil med mejet\u00e6rsker, traktor og gummiged",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#2f5f28",
+  "theme_color": "#2f5f28",
+  "lang": "da",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
