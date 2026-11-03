@@ -1,6 +1,6 @@
 # Maskiner
 
-Et landbrugsspil ovenfra til mobil og browser, hvor du kører mejetærsker, traktor og gummiged på gården. Lavet, så en 6-årig kan spille det. v1.0.
+Et landbrugsspil ovenfra til mobil og browser, hvor du kører mejetærsker, traktor og gummiged på gården. Lavet, så en 6-årig kan spille det. v1.1.
 
 **Spil:** https://seranodk.github.io/Maskiner/ — eller åbn `index.html`. På mobilen kan siden føjes til hjemmeskærmen og kører så i fuld skærm som en app.
 
@@ -17,11 +17,13 @@ Et landbrugsspil ovenfra til mobil og browser, hvor du kører mejetærsker, trak
 - Stjerne og antal gange klaret på hver maskine i menuen. Lyd kan slås fra
 
 ## Styring
+Skærmen drejer med maskinen, så den altid kører opad på skærmen.
+
 | Mobil | Tastatur | Handling |
 |---|---|---|
-| Joystick (nederst til venstre) | ← → · A D | Peg den vej maskinen skal køre |
+| Styrepind (nederst til venstre) – skub til venstre eller højre | ← → · A D | Drej til venstre eller højre |
 | GAS | ↑ · W | Kør frem |
-| BAK | ↓ · S | Bak (maskinen bakker den vej, du peger) |
+| BAK | ↓ · S | Bak |
 | Pauseknappen | P · Esc | Pause |
 
 ## Filer
@@ -36,4 +38,5 @@ Hver udgave gemmes også som `versions/maskiner-vX.Y.html`, og versionen står i
 
 | Version | Dato | Ændringer |
 |---|---|---|
+| v1.1 | 2026-11-03 | Enklere styring: styrepinden drejer kun til venstre eller højre. Skærmen drejer med maskinen, så den altid kører opad. |
 | v1.0 | 2026-11-03 | Første udgave: mejetærsker, traktor med plov og gummiged med lastbil. Joystick, GAS og BAK. |
