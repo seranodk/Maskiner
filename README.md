@@ -2,7 +2,7 @@
 
 Et landbrugsspil ovenfra til mobil og browser, hvor du kører mejetærsker, traktor og gummiged på gården. Lavet, så en 6-årig kan spille det. v1.0.
 
-**Spil:** https://seranodk.github.io/maskiner/ — eller åbn `index.html`. På mobilen kan siden føjes til hjemmeskærmen og kører så i fuld skærm som en app.
+**Spil:** https://seranodk.github.io/Maskiner/ — eller åbn `index.html`. På mobilen kan siden føjes til hjemmeskærmen og kører så i fuld skærm som en app.
 
 ## Indhold
 | Maskine | Opgave | Sådan gør du |
